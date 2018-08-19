@@ -30,7 +30,7 @@ class App extends React.Component {
 
           <Route exact path='/' render={function (props) {
             return (
-              <div className='home-container' style={{backgroundImage: "url('app/images/clouds_sky_art_sunset_elevation_landscape_86905_1920x1080.jpg')"}}>
+              <div className='home-container' style={{backgroundImage: "url('app/images/kalen-emsley-98264-unsplash.jpg')"}}>
                 <h1 className='header'>Enter a City : </h1>
                 <ZipCode
                   direction='column'
