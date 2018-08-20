@@ -4,10 +4,10 @@ Weather Forecast app for American cities built with React.JS using OpenWeatherMa
 
 Screenshots:
 
-![alt text](https://i.imgur.com/tFXy1Ff.jpg)
+![alt text](https://i.imgur.com/aK1NO6x.jpg)
 
-![alt text](https://i.imgur.com/IfbDZdv.jpg)
+![alt text](https://i.imgur.com/v6FlRbN.jpg)
 
-![alt text](https://i.imgur.com/qrbRHVH.jpg)
+![alt text](https://i.imgur.com/3NjCkjY.jpg)
 
-![alt text](https://i.imgur.com/W2E2c3J.jpg)
+![alt text](https://i.imgur.com/12XsHqg.jpg)
