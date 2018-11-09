@@ -1,6 +1,6 @@
 # Weather-Forecast-Application
 
-Weather Forecast app for American cities built with React.JS using OpenWeatherMap API
+Weather Forecast web app for American cities built with React.JS using OpenWeatherMap API
 
 Screenshots:
 
