@@ -1,5 +1,7 @@
 # Weather-Forecast-Application
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![CodeFactor](https://www.codefactor.io/repository/github/sumitagr/weather-forecast-application/badge)](https://www.codefactor.io/repository/github/sumitagr/weather-forecast-application)
+
 Weather Forecast web application designed for American cities built with React.JS using OpenWeatherMap API. 
 
 ## Screenshots:
