@@ -15,7 +15,11 @@ Weather Forecast web application designed for American cities built with React.J
 ## Built With
 
 * [React.JS](https://reactjs.org/) - React.JS (Javascript Framework)
-* [OpenWeatherMap API](https://openweathermap.org/api) - OpenWeatherMap API 
+* [OpenWeatherMap API](https://openweathermap.org/api) - OpenWeatherMap API
+
+## Link
+
+http://weathercove.s3-website.us-east-2.amazonaws.com/ - Hosted on AWS S3
 
 ## License
 
